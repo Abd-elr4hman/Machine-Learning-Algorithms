@@ -1,4 +1,4 @@
-# Machine-Learning-Alogarithms
+# Machine-Learning-Algorithms
 Repository containing implementations of machine learning alogarithm in python using only numpy and python built in libraries.
 
 ## Contents
